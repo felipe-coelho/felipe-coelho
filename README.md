@@ -1,10 +1,4 @@
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/felipe-coelho-b0590946/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h1 align="center">Olá, eu sou Felipe Coelho! 👋</h1>
 
 ###
 
@@ -15,6 +9,12 @@
 <p align="left">
   Desenvolvedor Front End com +10 anos de experiência, atuando em sistemas corporativos nos setores financeiro e e-commerce. Forte domínio de Vue.js, Nuxt.js, JavaScript, HTML5 e CSS3. Práticas sólidas de Clean Code, testes automatizados e componentização com Design System. Experiência em ambientes ágeis (Scrum) e pipelines de CI/CD.
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-coelho-b0590946/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
