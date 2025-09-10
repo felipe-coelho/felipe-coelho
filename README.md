@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Felipe Coelho! 👋</h1>
+<h1>Olá, eu sou Felipe Coelho!</h1>
 
 ###
 
@@ -21,7 +21,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="vue logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
