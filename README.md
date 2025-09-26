@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Desenvolvedor Front End com +10 anos de experiência, atuando em sistemas corporativos nos setores financeiro e e-commerce. Forte domínio de Vue.js, Nuxt.js, JavaScript, HTML5 e CSS3. Práticas sólidas de Clean Code, testes automatizados e componentização com Design System. Experiência em ambientes ágeis (Scrum) e pipelines de CI/CD.
+  Desenvolvedor Front End.
 </p>
 
 <div>
