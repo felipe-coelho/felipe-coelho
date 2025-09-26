@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Felipe Coelho</h1>
+<h2>Olá, eu sou Felipe Coelho</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/felipe-coelho-b0590946/" target="_blank">
