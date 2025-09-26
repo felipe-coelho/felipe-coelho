@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Felipe Coelho, desenvolvedor front end! 👋</h1>
+<h1>Olá, eu sou Felipe Coelho</h1>
 
 <div>
   <a href="https://www.linkedin.com/in/felipe-coelho-b0590946/" target="_blank">
